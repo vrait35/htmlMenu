@@ -1,0 +1,23 @@
+ul li{
+display: inline-block;
+margin-right: 30px;
+text-indent: url();
+background-image: url(1.png);
+background-repeat:no-repeat;
+padding-left: 20px;
+background-position: 0 5px;
+}
+li a{
+  color:black;
+  text-transform: uppercase;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+}
+.menu{
+  background-color: pink;
+  border-top: 3px solid red;
+  border-bottom: 3px solid blue;
+}
+body{
+  margin: 0;
+}
